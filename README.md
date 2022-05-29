@@ -5,6 +5,12 @@
 After that how to navigate through the files and using some commands to know where i am in the files -my path-.
 How to deal with files and doing some operations like creating a file, remove, rename, copy and move files and directories**
 ---
+
+## Code 102 - Intro to Software Development
+## Code 201 - Foundations of Software Development
+## Code 301 - Intermediate Software Development
+## Code 401 - Advanced Software Development
+
 **A relational database is a collection of data items with pre-defined relationships between them. These items are organized as a set of tables with columns and rows. Tables are used to hold information about the objects to be represented in the database.**
 ![Screenshot 2022-05-28 212542](https://user-images.githubusercontent.com/95183257/170838555-a640f308-7dff-4e2a-935e-78e4eca33bc9.png)
 ![Screenshot 2022-05-28 211621](https://user-images.githubusercontent.com/95183257/170838557-68db42d1-d81d-472a-8c0f-861933751471.png)
