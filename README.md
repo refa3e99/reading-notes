@@ -15,4 +15,4 @@ How to deal with files and doing some operations like creating a file, remove, r
 |----|----|
 |*Prep Work*|
 |Introduction to SQL|[Link](./prep/IntroductionToSQL/IntroductionToSQL.md)|
-|Practice in the terminal|[Link](./PracticeInTheTerminal/PracticeInTheTerminal.md)|
+|Practice in the terminal|[Link](./Prep/PracticeInTheTerminal/PracticeInTheTerminal.md)|
