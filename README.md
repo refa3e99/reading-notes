@@ -22,3 +22,4 @@ How to deal with files and doing some operations like creating a file, remove, r
 
 
 ## Things I want to know more about
+- more about how to determine the big O
