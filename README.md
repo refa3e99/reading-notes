@@ -17,4 +17,5 @@ How to deal with files and doing some operations like creating a file, remove, r
 |Introduction to SQL|[Link](./prep/IntroductionToSQL/IntroductionToSQL.md)|
 |Practice in the terminal|[Link](./prep/PracticeInTheTerminal/PracticeInTheTerminal.md)|
 |*Reading*|
-|Class 01|[](./readingClasses)|
+|Class 01|[Link](./readingClasses/class01.md)|
+|Class 02|[Link](./readingClasses/class02.md)|
