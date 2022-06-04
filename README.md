@@ -19,7 +19,7 @@ How to deal with files and doing some operations like creating a file, remove, r
 |***Reading***|
 |Class 01|[Link](./readingClasses/class01.md)|
 |Class 02|[Link](./readingClasses/class02.md)|
-
+|Class 03|[Link](./readingClasses/class03.md)|
 
 ## Things I want to know more about
 - more about how to determine the big O
