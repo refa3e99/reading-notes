@@ -17,10 +17,10 @@ How to deal with files and doing some operations like creating a file, remove, r
 |Introduction to SQL|[Link](./prep/IntroductionToSQL/IntroductionToSQL.md)|
 |Practice in the terminal|[Link](./prep/PracticeInTheTerminal/PracticeInTheTerminal.md)|
 |***Reading***|
-|Class 01|[Link](./readingClasses/class01.md)|
-|Class 02|[Link](./readingClasses/class02.md)|
-|Class 03|[Link](./readingClasses/class03.md)|
-|Class 04|[Link][./readingClasses/class04.md](https://refa3e99.github.io/reading-notes/readingClasses/class04.html)|
+|Class 01|[class01](https://refa3e99.github.io/reading-notes/readingClasses/class01.html)|
+|Class 02|[class02](https://refa3e99.github.io/reading-notes/readingClasses/class02.html)|
+|Class 03|[class03](https://refa3e99.github.io/reading-notes/readingClasses/class03.html)|
+|Class 04|[class04](https://refa3e99.github.io/reading-notes/readingClasses/class04.html)|
 
 ## Things I want to know more about
 - more about how to determine the big O
