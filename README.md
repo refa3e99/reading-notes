@@ -22,6 +22,6 @@ How to deal with files and doing some operations like creating a file, remove, r
 |Class 03|[class03](https://refa3e99.github.io/reading-notes/readingClasses/class03.html)|
 |Class 04|[class04](https://refa3e99.github.io/reading-notes/readingClasses/class04.html)|
 |Class 05|[class05](https://refa3e99.github.io/reading-notes/readingClasses/class05.html)|
-|Class 06|[class06](https://refa3e99.github.io/reading-notes/readingClasses/class05.html)|
+|Class 06|[class06](https://refa3e99.github.io/reading-notes/readingClasses/class06.html)|
 ## Things I want to know more about
 - more about how to determine the big O
