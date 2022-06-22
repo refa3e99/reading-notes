@@ -9,7 +9,7 @@ Common terminology for a stack is
 - Pop - Nodes or items that are removed from the stack are popped. When you attempt to pop an empty stack an exception will be raised.
 - Top - This is the top of the stack.
 - Peek - When you peek you will view the value of the top Node in the stack. When you attempt to peek an empty stack an exception will be raised.
-- IsEmpty - returns true when stack is empty otherwise returns false.
+- ```IsEmpty``` - returns true when stack is empty otherwise returns false.
 
 ### Stacks follow these concepts:
 
@@ -31,12 +31,12 @@ When adding a Node, you push it into the stack by assigning it as the new top, w
 ### Pop O(1)
 Popping a Node off a stack is the action of removing a Node from the top. When conducting a pop, the top Node will be re-assigned to the Node that lives below and the top Node is returned to the user.
 
-Typically, you would check isEmpty before conducting a pop. This will ensure that an exception is not raised. Alternately, you can wrap the call in a try/catch block.
+Typically, you would check ```isEmpty``` before conducting a pop. This will ensure that an exception is not raised. Alternately, you can wrap the call in a try/catch block.
 
 ### Peek O(1)
 When conducting a peek, you will only be inspecting the top Node of the stack.
 
-Typically, you would check isEmpty before conducting a peek. This will ensure that an exception is not raised. Alternately, you can wrap the call in a try/catch block.
+Typically, you would check ```isEmpty``` before conducting a peek. This will ensure that an exception is not raised. Alternately, you can wrap the call in a try/catch block.
 
 
 ## What is a Queue
@@ -47,7 +47,7 @@ Common terminology for a queue is
 - Front - This is the front/first Node of the queue.
 - Rear - This is the rear/last Node of the queue.
 - Peek - When you peek you will view the value of the front Node in the queue. If called when the queue is empty an exception will be raised.
-- IsEmpty - returns true when queue is empty otherwise returns false.
+- ```IsEmpty``` - returns true when queue is empty otherwise returns false.
 
 ## Queues follow these concepts:
 
@@ -70,7 +70,7 @@ When you remove an item from a queue, you use the dequeue action. This is done w
 ### Peek O(1)
 When conducting a peek, you will only be inspecting the front Node of the queue.
 
-Typically, you want to check isEmpty before conducting a peek. This will ensure that an exception is not raised. Alternately, you can wrap the call in a try/catch block.
+Typically, you want to check ```isEmpty``` before conducting a peek. This will ensure that an exception is not raised. Alternately, you can wrap the call in a try/catch block.
 
-Typically, you would check isEmpty before conducting a dequeue. This will ensure that an exception is not raised. Alternately, you can wrap the call in a try/catch block.
+Typically, you would check ```isEmpty``` before conducting a dequeue. This will ensure that an exception is not raised. Alternately, you can wrap the call in a try/catch block.
 
