@@ -1,4 +1,4 @@
-# class 14
+# class 15
 ## Trees
 - Node - A Tree node is a component which may contain its own values, and references to other nodes
 - Root - The root is the node at the beginning of the tree
