@@ -37,5 +37,6 @@ How to deal with files and doing some operations like creating a file, remove, r
 |Class 18|[class18](https://refa3e99.github.io/reading-notes/readingClasses/class18.html)|
 |Class 26|[class26](https://refa3e99.github.io/reading-notes/readingClasses/Class26.html)|
 |Class 27|[class27](https://refa3e99.github.io/reading-notes/readingClasses/Class27.html)|
+|Class 28|[class28](https://refa3e99.github.io/reading-notes/readingClasses/class28.html)|
 ## Things I want to know more about
 - more about how to determine the big O
